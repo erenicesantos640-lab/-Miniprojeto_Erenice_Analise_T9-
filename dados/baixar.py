@@ -1,6 +1,5 @@
 import kagglehub
 import shutil
-import os
 from pathlib import Path
 
 # 1. Baixa o dataset (vai pro cache)
